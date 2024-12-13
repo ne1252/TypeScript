@@ -1,8 +1,7 @@
 
-let side1:number = 5
-let side2:number = 2
 
-function area(side1:number,side2:number){
+
+function area(side1:number,side2:number):number{
     let result:number = side1 * side2
     return result
 }
